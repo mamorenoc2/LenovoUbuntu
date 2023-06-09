@@ -1,0 +1,24 @@
+2023-06-09 13:35:31.804 [info] 
+
+
+
+
+2023-06-09 13:35:31.805 [info] Extension host agent started.
+2023-06-09 13:35:31.828 [info] Started initializing default profile extensions in extensions installation folder. file:///home/mamorenoc2/.vscode-server/extensions
+2023-06-09 13:35:31.882 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/mamorenoc2/.vscode-server/extensions
+2023-06-09 13:35:32.378 [info] [127.0.0.1][fcf77f3a][ManagementConnection] New connection established.
+2023-06-09 13:35:32.422 [info] [127.0.0.1][be103b94][ExtensionHostConnection] New connection established.
+2023-06-09 13:35:32.560 [info] Installing extensions...
+2023-06-09 13:35:32.616 [info] [127.0.0.1][be103b94][ExtensionHostConnection] <628> Launched Extension Host Process.
+2023-06-09 13:35:33.631 [info] Installing extension 'ms-ceintl.vscode-language-pack-es'...
+2023-06-09 13:35:33.634 [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+2023-06-09 13:35:33.770 [info] Installing extension: ms-ceintl.vscode-language-pack-es
+2023-06-09 13:35:38.478 [info] Extension signature is verified: ms-ceintl.vscode-language-pack-es
+2023-06-09 13:35:38.913 [info] Extracted extension to /home/mamorenoc2/.vscode-server/extensions/.03f67f88-7003-4b09-a873-2aeb8c96d3c8: ms-ceintl.vscode-language-pack-es
+2023-06-09 13:35:38.934 [info] Renamed to /home/mamorenoc2/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.79.2023060709
+2023-06-09 13:35:38.938 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-es
+2023-06-09 13:35:38.949 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+2023-06-09 13:35:39.076 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es
+2023-06-09 13:35:39.079 [info] Extension 'ms-ceintl.vscode-language-pack-es' v1.79.2023060709 was successfully installed.
+2023-06-09 13:38:47.116 [info] [127.0.0.1][fcf77f3a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-06-09 13:38:47.298 [info] [127.0.0.1][be103b94][ExtensionHostConnection] <628> Extension Host Process exited with code: 0, signal: null.
